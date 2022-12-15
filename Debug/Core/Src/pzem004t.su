@@ -1,0 +1,13 @@
+../Core/Src/pzem004t.c:14:6:init_pzem	24	static
+../Core/Src/pzem004t.c:24:9:readAddress	40	static
+../Core/Src/pzem004t.c:40:6:sendCmd8	40	static
+../Core/Src/pzem004t.c:61:9:checkCRC	40	static
+../Core/Src/pzem004t.c:78:6:setCRC	32	static
+../Core/Src/pzem004t.c:128:10:CRC16	32	static
+../Core/Src/pzem004t.c:142:9:updateValues	24	static
+../Core/Src/pzem004t.c:184:6:printVoltage	16	static
+../Core/Src/pzem004t.c:191:6:printCurrent	16	static
+../Core/Src/pzem004t.c:198:6:printPower	16	static
+../Core/Src/pzem004t.c:205:6:printEnergy	16	static
+../Core/Src/pzem004t.c:212:6:printFrequency	16	static
+../Core/Src/pzem004t.c:219:6:printpF	16	static
